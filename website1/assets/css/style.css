@@ -4,3 +4,10 @@ body{
 .movein{
     margin-left: -170px;
 }
+.space-left{
+    margin-left: 75px;
+}
+.text2{
+    margin-left: 80px;
+    margin-right: 110px;
+}
