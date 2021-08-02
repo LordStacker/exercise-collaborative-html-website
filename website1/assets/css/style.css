@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
 .movein{
     margin-left: -170px;
@@ -23,11 +23,6 @@ body{
     padding-right: 35%;
     border: 10px;
 
-}
-.text55{
-    position: auto;
-    background: white;
-    padding: 10pxs;
 }
 .col-sm-lg{
     padding-right: 30%;
