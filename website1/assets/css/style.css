@@ -7,24 +7,3 @@ body{
 .space-left{
     margin-left: 75px;
 }
-.text2{
-    margin-left: 80px;
-    margin-right: 110px;
-}
-.container{
-    position: relative;
-    display: inline-block;
-}
-.text1{
-    position: absolute;
-    top: 200px;
-    background: white;
-    padding-left: 30%;
-    padding-right: 35%;
-    border: 10px;
-
-}
-.col-sm-lg{
-    padding-right: 30%;
-    margin-top: 350px;
-}
